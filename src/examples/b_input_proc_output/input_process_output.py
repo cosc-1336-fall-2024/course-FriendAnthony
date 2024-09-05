@@ -5,3 +5,6 @@ def display_output():
 def test_config():
     return True
 
+def use_reuse_local_variable():
+    str1 = 'python'
+    print(str1)
