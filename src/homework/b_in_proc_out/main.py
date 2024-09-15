@@ -1,5 +1,4 @@
 #
-import output
 
 def main():
     value1 = int(input("Enter value1: "))
