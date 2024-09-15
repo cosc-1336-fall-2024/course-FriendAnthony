@@ -8,7 +8,7 @@ def main():
 
     rating = decisions.get_faculty_rating(ratio)
 
-    print(f"Faculty Rating: {rating}")
+    print(rating)
 main()
 
 
